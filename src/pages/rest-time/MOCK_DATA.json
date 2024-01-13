@@ -1,0 +1,797 @@
+[
+  {
+    "Id": 2,
+    "Date": "2022-11-23T00:00:00",
+    "Number": 1,
+    "StartTime": "12:00 PM",
+    "EndTime": "12:30 PM",
+    "loginValue" : "a_nikfar",
+    "passwordValue" : "123456789",
+    "Logins": [
+      {
+        "EmployeeId": 10,
+        "PersonalId": "3822",
+        "FirstName": "",
+        "LastName": "مریم محرابی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "7-15",
+        "TeamName": "شینا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 79,
+        "PersonalId": "7042",
+        "FirstName": "",
+        "LastName": "هلیا قاسمی دیجوجین",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "چت و میل 8 الی 12",
+        "ShiftName": "7-15",
+        "TeamName": "اهورا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 117,
+        "PersonalId": "6997",
+        "FirstName": "",
+        "LastName": "ندا صدیق دائمی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "7-15",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 50,
+        "PersonalId": "6702",
+        "FirstName": "",
+        "LastName": "فریبا بلوری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 185,
+        "PersonalId": "6793",
+        "FirstName": "",
+        "LastName": "سیده سهیلا طباطبائی شیرازانی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 88,
+        "PersonalId": "6172",
+        "FirstName": "",
+        "LastName": "میثم اژدر",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "جلسه گروهی",
+        "ShiftName": "صبح",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 59,
+        "PersonalId": "6867",
+        "FirstName": "",
+        "LastName": "محمد ذاکر حیات داودی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "شینا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 47,
+        "PersonalId": "800119",
+        "FirstName": "",
+        "LastName": "نجمه  نیساری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "شیفت اداری 08:00 - 16:30",
+        "TeamName": "Shiraz-CS",
+        "CityName": "شیراز"
+      },
+      {
+        "EmployeeId": 37,
+        "PersonalId": "6684",
+        "FirstName": "",
+        "LastName": "پدرام عباس پور",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 84,
+        "PersonalId": "3444",
+        "FirstName": "",
+        "LastName": "مرتضی حیدری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "آتلانتیس",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 123,
+        "PersonalId": "8205",
+        "FirstName": "",
+        "LastName": "سینا محمدی ها",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "شینا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 7,
+        "PersonalId": "3112",
+        "FirstName": "",
+        "LastName": "المیرا نوایی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "شینا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 97,
+        "PersonalId": "6689",
+        "FirstName": "",
+        "LastName": "بهرام عارف زاده",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 103,
+        "PersonalId": "6823",
+        "FirstName": "",
+        "LastName": "احسان محمدگنجی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "جلسه گروهی",
+        "ShiftName": "صبح",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 156,
+        "PersonalId": "7011",
+        "FirstName": "",
+        "LastName": "ساناز مظلومی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "آتلانتیس",
+        "CityName": "تهران"
+      }
+    ],
+    "Offlines": [
+      {
+        "EmployeeId": 131,
+        "PersonalId": "3977",
+        "FirstName": "",
+        "LastName": "محمد عربی مرقی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "سرشیفت",
+        "ShiftName": "صبح",
+        "TeamName": "آتلانتیس",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 6,
+        "PersonalId": "6174",
+        "FirstName": "",
+        "LastName": "ادریس فیض مرزوقی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "مسئولیت های خاص",
+        "ShiftName": "9-17",
+        "TeamName": "اهورا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 99,
+        "PersonalId": "6729",
+        "FirstName": "",
+        "LastName": "محمد امین  نوری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "بالاترین تماس ها",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 112,
+        "PersonalId": "8370",
+        "FirstName": "",
+        "LastName": "امید عبیری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "چت و میل 12 الی 16",
+        "ShiftName": "7-15",
+        "TeamName": "آریا",
+        "CityName": "تهران"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Date": "2022-11-23T00:00:00",
+    "Number": 2,
+    "StartTime": "12:35 PM",
+    "EndTime": "1:05 PM",
+    "Logins": [
+      {
+        "EmployeeId": 96,
+        "PersonalId": "6761",
+        "FirstName": "",
+        "LastName": "سعید ابراهیمی مقدم",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 51,
+        "PersonalId": "3767",
+        "FirstName": "",
+        "LastName": "مهسا میرحسینی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 60,
+        "PersonalId": "8013",
+        "FirstName": "",
+        "LastName": "بهناز امینی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "آروشا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 98,
+        "PersonalId": "6694",
+        "FirstName": "",
+        "LastName": "حسن دولت یاری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 190,
+        "PersonalId": "8142",
+        "FirstName": "",
+        "LastName": "الهام کولیوند",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "جلسه گروهی",
+        "ShiftName": "صبح",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 114,
+        "PersonalId": "5323",
+        "FirstName": "",
+        "LastName": "محمد اسمی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "Shiraz-CS",
+        "CityName": "شیراز"
+      },
+      {
+        "EmployeeId": 147,
+        "PersonalId": "800132",
+        "FirstName": "",
+        "LastName": "وحید عبدالسید اصل",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "شیفت اداری 08:00 - 16:30",
+        "TeamName": "Shiraz-CS",
+        "CityName": "شیراز"
+      },
+      {
+        "EmployeeId": 140,
+        "PersonalId": "6710",
+        "FirstName": "",
+        "LastName": "فاطمه  رجب زاده",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 129,
+        "PersonalId": "4038",
+        "FirstName": "",
+        "LastName": "مهشید تحریری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "آروشا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 155,
+        "PersonalId": "8542",
+        "FirstName": "",
+        "LastName": "ارغوان مستحسن",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "آتلانتیس",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 24,
+        "PersonalId": "3060",
+        "FirstName": "",
+        "LastName": "سحر امامی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "صبح",
+        "TeamName": "اهورا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 166,
+        "PersonalId": "8705",
+        "FirstName": "",
+        "LastName": "سیده آتیه  جنانی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "9-17",
+        "TeamName": "آریا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 193,
+        "PersonalId": "8751",
+        "FirstName": "",
+        "LastName": "محمدرضا دیانتی راد",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "Menti",
+        "ShiftName": "9-17",
+        "TeamName": "UnKnown",
+        "CityName": "UnKnown"
+      },
+      {
+        "EmployeeId": 165,
+        "PersonalId": "8710",
+        "FirstName": "",
+        "LastName": "علیرضا عزیزی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "9-17",
+        "TeamName": "آروشا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 169,
+        "PersonalId": "7009",
+        "FirstName": "",
+        "LastName": "میلاد پورمنش",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "Social",
+        "ShiftName": "9-17",
+        "TeamName": "آروشا",
+        "CityName": "تهران"
+      }
+    ],
+    "Offlines": [
+      {
+        "EmployeeId": 175,
+        "PersonalId": "5007",
+        "FirstName": "",
+        "LastName": "ابوالفضل ملکی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "سرشیفت",
+        "ShiftName": "صبح",
+        "TeamName": "آریا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 19,
+        "PersonalId": "6693",
+        "FirstName": "",
+        "LastName": "هادی یوسف پور سولا",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "بالاترین تماس ها",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 134,
+        "PersonalId": "800168",
+        "FirstName": "",
+        "LastName": "زهرا نجاری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "بالاترین تماس ها",
+        "ShiftName": "صبح",
+        "TeamName": "Qom-CS",
+        "CityName": "قم"
+      },
+      {
+        "EmployeeId": 107,
+        "PersonalId": "8278",
+        "FirstName": "",
+        "LastName": "ساینا نیک پور خشکرودی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "چت و میل 12 الی 16",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Date": "2022-11-23T00:00:00",
+    "Number": 3,
+    "StartTime": "1:10 PM",
+    "EndTime": "1:40 PM",
+    "Logins": [
+      {
+        "EmployeeId": 104,
+        "PersonalId": "8714",
+        "FirstName": "",
+        "LastName": "زهره اسدزاده",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "9-17",
+        "TeamName": "آروشا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 162,
+        "PersonalId": "8711",
+        "FirstName": "",
+        "LastName": "امیررضا دنیامعلی زاده",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "جلسه گروهی",
+        "ShiftName": "9-17",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 33,
+        "PersonalId": "8610",
+        "FirstName": "",
+        "LastName": "مینا مولاپور",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "9-17",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 137,
+        "PersonalId": "8566",
+        "FirstName": "",
+        "LastName": "نیما ملکی ",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "جلسه گروهی",
+        "ShiftName": "9-17",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 15,
+        "PersonalId": "3894",
+        "FirstName": "",
+        "LastName": "میلاد محمودی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "9-17",
+        "TeamName": "آتلانتیس",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 17,
+        "PersonalId": "6763",
+        "FirstName": "",
+        "LastName": "محبوبه حیدری نژاد ",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "10-18",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 163,
+        "PersonalId": "8750",
+        "FirstName": "",
+        "LastName": "غزل مستفیضی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "Menti",
+        "ShiftName": "10-18",
+        "TeamName": "UnKnown",
+        "CityName": "UnKnown"
+      },
+      {
+        "EmployeeId": 86,
+        "PersonalId": "7075",
+        "FirstName": "",
+        "LastName": "مهدی آذرخشی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "10-18",
+        "TeamName": "شینا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 25,
+        "PersonalId": "3486",
+        "FirstName": "",
+        "LastName": "سهیلا عزتی پرویز",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "10-18",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 94,
+        "PersonalId": "8454",
+        "FirstName": "",
+        "LastName": "مهدیه صابری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "10-18",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 3,
+        "PersonalId": "6349",
+        "FirstName": "",
+        "LastName": "الهه آشتیانی عراقی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "10-18",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 93,
+        "PersonalId": "8237",
+        "FirstName": "",
+        "LastName": "بهزاد رمضانی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "10-18",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      }
+    ],
+    "Offlines": [
+      {
+        "EmployeeId": 21,
+        "PersonalId": "6764",
+        "FirstName": "",
+        "LastName": "علی رحیمی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "حضوری",
+        "ShiftName": "صبح",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 8,
+        "PersonalId": "3293",
+        "FirstName": "",
+        "LastName": "علیرضا شیرازیان",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "حضوری",
+        "ShiftName": "9-17",
+        "TeamName": "شینا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 102,
+        "PersonalId": "8136",
+        "FirstName": "",
+        "LastName": "لعیا عرب باقری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "چت و میل 12 الی 16",
+        "ShiftName": "10-18",
+        "TeamName": "آریا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 173,
+        "PersonalId": "7010",
+        "FirstName": "",
+        "LastName": "محمد میزبانی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "مسئول ارجاعی",
+        "ShiftName": "9-17",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "Date": "0001-01-01T00:00:00",
+    "Number": 4,
+    "StartTime": null,
+    "EndTime": null,
+    "Logins": [],
+    "Offlines": []
+  },
+  {
+    "Id": 0,
+    "Date": "0001-01-01T00:00:00",
+    "Number": 5,
+    "StartTime": null,
+    "EndTime": null,
+    "Logins": [],
+    "Offlines": []
+  },
+  {
+    "Id": 0,
+    "Date": "0001-01-01T00:00:00",
+    "Number": 6,
+    "StartTime": null,
+    "EndTime": null,
+    "Logins": [],
+    "Offlines": []
+  },
+  {
+    "Id": 0,
+    "Date": "0001-01-01T00:00:00",
+    "Number": 7,
+    "StartTime": null,
+    "EndTime": null,
+    "Logins": [],
+    "Offlines": []
+  },
+  {
+    "Id": 9,
+    "Date": "2022-11-23T00:00:00",
+    "Number": 8,
+    "StartTime": "4:05 PM",
+    "EndTime": "4:35 PM",
+    "Logins": [
+      {
+        "EmployeeId": 5,
+        "PersonalId": "3891",
+        "FirstName": "",
+        "LastName": "سمانه خوشحال رودپشتی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "اهورا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 34,
+        "PersonalId": "8307",
+        "FirstName": "",
+        "LastName": "نسترن کچکول",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "آروشا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 191,
+        "PersonalId": "6783",
+        "FirstName": "",
+        "LastName": "فراز مخیر",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "سورنا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 18,
+        "PersonalId": "6696",
+        "FirstName": "",
+        "LastName": "علی ابراهیمی پور",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "Mashhad-CS",
+        "CityName": "مشهد"
+      },
+      {
+        "EmployeeId": 48,
+        "PersonalId": "8277",
+        "FirstName": "",
+        "LastName": "مهسا فلاح پور کوشالی",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "اهورا",
+        "CityName": "تهران"
+      }
+    ],
+    "Offlines": []
+  },
+  {
+    "Id": 10,
+    "Date": "2022-11-23T00:00:00",
+    "Number": 9,
+    "StartTime": "4:40 PM",
+    "EndTime": "5:10 PM",
+    "Logins": [
+      {
+        "EmployeeId": 111,
+        "PersonalId": "8611",
+        "FirstName": "",
+        "LastName": "حسام افشارکهن",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 192,
+        "PersonalId": "8671",
+        "FirstName": "",
+        "LastName": "هدیه حسن پناه",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 125,
+        "PersonalId": "8017",
+        "FirstName": "",
+        "LastName": "سمانه سامانی پور",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "آتریسا",
+        "CityName": "کرج"
+      },
+      {
+        "EmployeeId": 4,
+        "PersonalId": "3686",
+        "FirstName": "",
+        "LastName": "هنگامه اناری",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "اهورا",
+        "CityName": "تهران"
+      },
+      {
+        "EmployeeId": 23,
+        "PersonalId": "5333",
+        "FirstName": "",
+        "LastName": "عاطفه ارندان",
+        "ProfileImageUrl": "",
+        "ResponsibilityName": "پاسخگوی تلفن",
+        "ShiftName": "ظهر",
+        "TeamName": "Qom-CS",
+        "CityName": "قم"
+      }
+    ],
+    "Offlines": []
+  }
+]
